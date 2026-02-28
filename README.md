@@ -1,6 +1,6 @@
-# 📘 Math-Quiz-Generator-Python
+# 📘 Maths-Quiz-Generator-Python
 
-A beginner-friendly Command Line Math Quiz Game built using Python.
+A beginner-friendly Command Line Maths Quiz Game built using Python.
 
 This project generates random math questions and keeps track of your score in real time. It supports addition, subtraction, multiplication, and division.
 
