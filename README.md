@@ -50,27 +50,6 @@ Contains:
 - Python 3.x  
 (No external libraries required)
 
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-```
-git clone https://github.com/your-username/Math-Quiz-Generator-Python.git
-```
-
-2. Navigate into the project folder:
-```
-cd Math-Quiz-Generator-Python
-```
-
-3. Run the program:
-```
-python main_file.py
-```
-
----
-
 ## 🎮 How It Works
 
 - A random math question is generated.
